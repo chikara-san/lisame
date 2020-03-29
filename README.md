@@ -80,7 +80,7 @@ Find your LINE bot with QR code from Add friends icon the top right from the ent
 ## deployment
 
 ```bash
-$ git clone
+$ git clone git@github.com:misenli/lisame.git
 $ cd lisame
 ```
 
